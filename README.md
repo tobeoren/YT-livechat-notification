@@ -47,5 +47,3 @@ To run this program, ensure you have the following:
 Make sure to have a compatible audio file in the specified format for notifications.
 
 ---
-
-Feel free to modify any part of the guide to suit your preferences!
