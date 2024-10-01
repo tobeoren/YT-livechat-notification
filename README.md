@@ -1,5 +1,3 @@
-Sure! Here’s a simple and clear guide for your code, structured into the requested sections.
-
 ---
 
 # YouTube Live Chat Notification
