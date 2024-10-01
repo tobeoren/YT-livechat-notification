@@ -1,0 +1,4 @@
+pytchat
+pygame
+rich
+keyboard
