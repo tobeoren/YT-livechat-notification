@@ -1,5 +1,3 @@
-<img width="194" alt="image" src="https://github.com/user-attachments/assets/912fcc8f-41dc-461c-bfd5-1aaa0d79037f">---
-
 # YouTube Live Chat Notification
 
 ## Introduction
