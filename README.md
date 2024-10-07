@@ -50,6 +50,9 @@ Make sure to have a compatible audio file in the specified format for notificati
 DOWNLOAD: [HERE](https://github.com/tobeoren/YT-livechat-notification/releases/download/ytlivechat/Youtube.Livechat.Notification.v1.1.exe)
 
 # IF YOU WANT TO SUPPORT ME
+Streamlabs : https://streamlabs.com/xzeeest
+Trakteer : https://trakteer.id/xzeeest/tip?open=true
+
 - EVM ADDRESS: 0x491d7397212c55da8352d7733d2513393a362ae9
 - SOLANA: 5MNBgtrsasfqenxb75ZLjd4epjB2TUKf9fbxfw143kq6
 - BTC: bc1pts2fvykemcdyk2rg37al8chdc4uxptwg82w3nf0j02smzrtm9a6sp5dldc
