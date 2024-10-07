@@ -1,5 +1,8 @@
 # YouTube Live Chat Notification
 
+<img width="601" alt="image" src="https://github.com/user-attachments/assets/eedb8968-3b56-4f19-b8a4-391cd845dfbf">
+
+
 ## Introduction
 This program is designed to monitor YouTube live chat and play a notification sound whenever a new message is received. It allows users to adjust the volume of the notification sound using keyboard shortcuts. The application utilizes the `pytchat` library to fetch live chat messages and the `pygame` library to handle audio playback.
 
